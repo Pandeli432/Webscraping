@@ -2,7 +2,7 @@
 A look into movie statistics using data acquired via webscrapping
 
 This project contains two files: Movie_scraping.ipynb and Top 1000 Moves.csv
- Movie_scraping.ipynb contains the python code and Top 1000 Moves.csv is the csv file where the data is stored.
+ Movie_scraping (1).ipynb contains the python code and Top 1000 Moves (4).csv is the csv file where the data is stored.
 
 The objective of this project was to answer the following four questions: 
 1. What years had the most movies ranked in the top 1000 movies?
